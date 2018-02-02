@@ -1,0 +1,6 @@
+NULLarray (
+)array (
+  'name' => 'あああ',
+  'comment' => 'あああ',
+  'submit' => '送信',
+)'あああ'NULLNULLNULL'てすと''てすと''てすと''てすと''ああああああ''ああああああ''いいいい''いいいい''うううう''ううううう''うううう''aaaaa''aaaa''aaaa''aaaaaaa''aaaaaaa''ああああ''ああああ''aaaa'
